@@ -1,4 +1,4 @@
-# https://github.com/Dibyas98/Amazon-clone
+# https://dibyas98.github.io/Amazon-clone/
 ![1](https://github.com/Dibyas98/Amazon-clone/assets/125633895/084cbe78-2e2f-4d18-8558-f2b9807664bd)
 It is made by header tag it nav tag and a tag with the css properties of using display flex alingn-items: center and justift-content: space between them.
 with different csss properties like backgroud-color,padding margin font size,font weight,color,gap.
